@@ -1,0 +1,11 @@
+#btn {
+  min-width: 30px;
+  min-height: 30px;
+}
+
+.to__do {
+  background-color: yellow;
+}
+.done {
+  background-color: green;
+}
